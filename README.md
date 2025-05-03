@@ -1,8 +1,6 @@
 # Caracal
 Instagram Username Checker
 
-![banner](banner.png)
-
 ## Preview
 ![preview](preview.png)
 
@@ -53,6 +51,9 @@ Check file with usernames: `./caracal.sh -u usernames.txt`
 
 Check username with proxy:
 `./caracal.sh -u usernames.txt -p proxies.txt`
+
+## Screenshot
+![screenshot](screenshot.png)
 
 ## Dependencies
 
