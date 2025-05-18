@@ -77,4 +77,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-Caracal is licensed under [Unlicense license](LICENSE).
+Caracal is licensed under [WTFPL license](LICENSE).
